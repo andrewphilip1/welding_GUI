@@ -1,1 +1,2 @@
-READme file for welding GUI
+This repository contains the Python code for a Graphical User Interface aimed at collecting huge volumes of training data for an artificial neural network.
+The GUI stores the expert-entered data in an Excel file.
